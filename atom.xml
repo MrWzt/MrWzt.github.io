@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mrwzt.github.io/"/>
-  <updated>2019-08-01T12:24:03.595Z</updated>
+  <updated>2019-08-01T13:10:40.981Z</updated>
   <id>https://mrwzt.github.io/</id>
   
   <author>
@@ -17,19 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>利用SSR搭建梯子[VPS]</title>
-    <link href="https://mrwzt.github.io/2019/07/28/%E5%88%A9%E7%94%A8SSR%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90-VPS/"/>
-    <id>https://mrwzt.github.io/2019/07/28/利用SSR搭建梯子-VPS/</id>
-    <published>2019-07-28T01:25:57.000Z</published>
-    <updated>2019-08-01T12:24:03.595Z</updated>
+    <title>Use SSR [VPS]</title>
+    <link href="https://mrwzt.github.io/2019/08/01/Use-SSR-VPS/"/>
+    <id>https://mrwzt.github.io/2019/08/01/Use-SSR-VPS/</id>
+    <published>2019-08-01T13:08:26.000Z</published>
+    <updated>2019-08-01T13:10:40.981Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="第一步：购买VPS"><a href="#第一步：购买VPS" class="headerlink" title="第一步：购买VPS"></a>第一步：购买VPS</h3><p>现在比较可靠的购买VPS的网站有搬瓦工和Vultr，但是笔记推荐的也是我正在用的是Vultr的VPS因为，因为这个网站的VPS是按流量进行扣钱的，而且新用户注册：充值</p><p><a href="[https://www.vultr.com/?ref=7771220-4F](http://vultr.stackcc.com" title="http://www.vultr.com">￥10送￥50</a>只用通过本链接进入注册才<font color="red"><strong>有效</strong></font></p><p>1.点击网址：</p><p><img src="E:%5Cblog%5Csource%5Cimage%5C1.png" alt="E:\blog\source\image\1"></p><p>旁边有这个提示：</p><p><img src="E:%5Cblog%5Csource%5Cimage%5C2.png" alt="E:\blog\source\image\2"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2019/08/01/Use-SSR-VPS/E:%5Cblog%5Csource_posts%5CUse-SSR-VPS%5C1.png" alt="E:\blog\source\_posts\Use-SSR-VPS\1"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;第一步：购买VPS&quot;&gt;&lt;a href=&quot;#第一步：购买VPS&quot; class=&quot;headerlink&quot; title=&quot;第一步：购买VPS&quot;&gt;&lt;/a&gt;第一步：购买VPS&lt;/h3&gt;&lt;p&gt;现在比较可靠的购买VPS的网站有搬瓦工和Vultr，但是笔记推荐的也是我正在用的是V
+        &lt;p&gt;&lt;img src=&quot;/2019/08/01/Use-SSR-VPS/E:%5Cblog%5Csource_posts%5CUse-SSR-VPS%5C1.png&quot; alt=&quot;E:\blog\source\_posts\Use-SSR-VPS\1&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用SSR搭建梯子[VPS]</title>
+    <link href="https://mrwzt.github.io/2019/08/01/%E4%BD%BF%E7%94%A8SSR%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90-VPS/"/>
+    <id>https://mrwzt.github.io/2019/08/01/使用SSR搭建梯子-VPS/</id>
+    <published>2019-08-01T12:40:37.000Z</published>
+    <updated>2019-08-01T12:58:03.557Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一步：-购买VPS–Vultr"><a href="#第一步：-购买VPS–Vultr" class="headerlink" title="第一步： 购买VPS–Vultr"></a>第一步： 购买VPS–Vultr</h2><p><font color="gray" size="3"> 现在比较可靠的购买VPS的网站有搬瓦工和Vultr，但是我推荐的也是我正在用的是Vultr的VPS因为，因为这个网站的VPS是按流量进行扣钱的，而且新用户注册：充值<a href="https://www.vultr.com/" target="_blank" rel="noopener">10￥送50￥</a>，这个活动现在依旧在进行中。</font></p><p><img src="/2019/08/01/使用SSR搭建梯子-VPS/E:%5Cblog%5Csource%5Cimage%5C1.png" alt="如上图所示"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;第一步：-购买VPS–Vultr&quot;&gt;&lt;a href=&quot;#第一步：-购买VPS–Vultr&quot; class=&quot;headerlink&quot; title=&quot;第一步： 购买VPS–Vultr&quot;&gt;&lt;/a&gt;第一步： 购买VPS–Vultr&lt;/h2&gt;&lt;p&gt;&lt;font color=&quot;g
       
     
     </summary>
@@ -42,9 +64,9 @@
     <link href="https://mrwzt.github.io/2019/06/18/hello-world/"/>
     <id>https://mrwzt.github.io/2019/06/18/hello-world/</id>
     <published>2019-06-18T02:17:16.656Z</published>
-    <updated>2019-06-18T04:19:21.091Z</updated>
+    <updated>2019-08-01T12:38:53.332Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can  me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
